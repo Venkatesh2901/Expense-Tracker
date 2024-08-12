@@ -4,11 +4,11 @@ import datetime
 
 
 def main():
+    budget = 20000
     print("Hello, World! 🌍")
     print("Program Running 🏃")
      
-    print("\n")
-    budget = float(input("Enter the budget amount: "))
+    
     print("\n")
 
     #1
